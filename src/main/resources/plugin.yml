@@ -1,0 +1,6 @@
+name: Gangs
+version: 1.0
+main: main.Gangs
+commands:
+  Gang:
+  Gangs:
